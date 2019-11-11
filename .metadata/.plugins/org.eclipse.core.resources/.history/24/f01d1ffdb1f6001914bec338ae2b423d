@@ -1,0 +1,5 @@
+package com.sudoku.validator;
+
+public class SudokuValidatorTest {
+
+}
